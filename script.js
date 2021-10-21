@@ -33,7 +33,7 @@ resetAllGlobalVariablesToZero = () => {
   excess = 0;
 };
 
-//reusuable function, for reseting values if order is submitted or cancelled
+//reusuable function, if user wants to reset everything and start again
 resetVariablesAndHtml = () => {
   resetAllGlobalVariablesToZero();
   document.getElementById("thankYou").innerHTML = "";
