@@ -1,0 +1,37 @@
+body {
+	font-family: Optima, sans-serif;
+	font-size: 17px;
+	color: black;
+	background: #55CDFC;
+	color: #003c9c;
+}
+
+p {
+	font-size: 17px
+}
+
+input {
+	width: 100px;
+	height: 25px;
+	text-align: left;
+	font-size: 17px;
+	border: solid 2px #F7A8B8;
+	border-radius: 10px;
+	margin: 5px;
+}
+
+.method {
+	background: #F7A8B8;
+	border: 5px solid white;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.button {
+	font-size: 14px;
+	border-radius: 10px;
+	height: 30px
+}
+
+
+/* #55CDFC =blue, #F7A8B8 = pink, #ffffff = white */
